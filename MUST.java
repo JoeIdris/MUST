@@ -5,7 +5,7 @@
 	Usage:
 		keyword:	<alphabetical letters string>	<ex: 	Viking>
 		plaintext:	<string to be ciphered>			<ex: 	Ragnar Lothbrok>
-		ciphertext:	<ciphered string>				<out: 	Miqvnx Gwdpoxjs>
+		ciphertext:	<ciphered string>			<out: 	Miqvnx Gwdpoxjs>
 */
 
 import java.util.Scanner;
