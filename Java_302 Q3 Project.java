@@ -10,6 +10,7 @@
 
 import java.util.Scanner;
 
+
 public class MUST 
 {
 	// a function that calls printf without having to type it all out every single time =(
