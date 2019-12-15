@@ -1,3 +1,4 @@
+
 /* 
 	Vigenere cipher, uses each character in a keyword as
 	as a cipher to encrypt the given string
